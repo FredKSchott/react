@@ -20,9 +20,10 @@ yarn add react@npm:@pika/react react-dom@npm:@pika/react-dom
 Other packages that have attempted this in the past have pinned to a single version in time, and gotten stale quickly. This repo automatically checks daily for every new version of React. It is always up-to-date with the latest versions.
 
 
-## How to Build
+## How to Build Locally
 
 ```
+git clone ${REPO}
 npm install
 node ./build-react.js
 ```
