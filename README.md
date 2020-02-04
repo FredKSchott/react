@@ -1,6 +1,6 @@
 # @pika/react & @pika/react-dom
 
-Actively maintained ESM builds of React & React DOM.
+Actively maintained ESM builds of React & React DOM, published to NPM.
 
 ## Why?
 
