@@ -8,7 +8,7 @@ React & React-DOM are both written as Common.js, and rely on some funky dynamic 
 
 [The React team is working on ESM support](https://github.com/facebook/react/issues/11503), probably for a v17 release. Until then, you can install these drop-in replacements in your projects to get smaller, optimized production installs with Snowpack, Rollup, Webpack, and Parcel.
 
-```
+```bash
 # Install with npm
 npm install react@npm:@pika/react react-dom@npm:@pika/react-dom
 # Install with Yarn
