@@ -18,3 +18,11 @@ yarn add react@npm:@pika/react react-dom@npm:@pika/react-dom
 ## What about react-esm, @reactesm/react, and other ESM flavors of React? 
 
 Other packages that have attempted this in the past have pinned to a single version in time, and gotten stale quickly. This repo automatically checks daily for every new version of React. It is always up-to-date with the latest versions.
+
+
+## How to Build
+
+```
+npm install
+node ./build-react.js
+```
